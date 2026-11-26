@@ -12,6 +12,9 @@
 <summary><code>$ ls ~/featured</code></summary>
 <br>
 
+**[realtime-voice-receptionist](https://github.com/anderescaray/realtime-voice-receptionist)**<br>
+A voice agent that answers a dental clinic's phone in Spanish and English. Replies in about 1.5 s.
+
 **[conversation-intelligence-engine](https://github.com/anderescaray/conversation-intelligence-engine)**<br>
 Customer calls in; intent, sentiment and a summary out. Personal data is redacted before any LLM sees it. About 2 s and $0.002 per conversation.
 

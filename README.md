@@ -45,6 +45,7 @@ So I don't have to click the same five buttons 200 times.
 <summary><code>$ ls ~/other</code></summary>
 <br>
 
+- **[hackathon-openai](https://github.com/anderescaray/hackathon-openai)**: find a flat by talking to a voice agent, built in three hours.
 - **[gaia-agent](https://github.com/anderescaray/gaia-agent)**: multimodal agent, 70% on GAIA Level 1.
 - **[autonomous-data-analyst](https://github.com/anderescaray/autonomous-data-analyst)**: drop in a CSV and an agent explains it to you.
 - **[embat-x-ray](https://github.com/anderescaray/every-hackspain)**: financial-health score for companies (HackSpain 2026).
